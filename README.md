@@ -60,4 +60,4 @@ Trabalho com operações de logística numa Torre de Controle (monitoramento de 
 ---
 
 
-<p align="center">📫 Aberto a oportunidades de <b>estágio em automação, RPA e integrações</b>. Bora conversar!</p>
+<p align="center">📫 Aberto a oportunidades de <b>estágio em automação, RPA e integrações</b>.</p>
