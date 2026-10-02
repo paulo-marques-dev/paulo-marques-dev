@@ -58,13 +58,5 @@ Trabalho com operações de logística numa Torre de Controle (monitoramento de 
 
 ---
 
-### 📊 Estatísticas
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=pmw17&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pmw17&layout=compact&theme=transparent&hide_border=true"/>
-</p>
-
----
 
 <p align="center">📫 Aberto a oportunidades de <b>estágio em automação, RPA e integrações</b>. Bora conversar!</p>
