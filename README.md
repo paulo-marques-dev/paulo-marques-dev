@@ -53,9 +53,9 @@ Trabalho com operações de logística numa Torre de Controle (monitoramento de 
 
 | Projeto | O que faz | Stack |
 |---|---|---|
-| [n8n-gestao-seguranca-heinrich](https://github.com/pmw17/n8n-gestao-seguranca-heinrich) | Gestão de ocorrências de segurança do trabalho (Pirâmide de Heinrich): planilha → agente de IA classifica → relatório HTML → e-mail | n8n, JS, Sheets API, Gmail API, LLM |
-| [sistema-ws](https://github.com/pmw17/sistema-ws) | Sistema financeiro de frota para transportadora: fretes, abastecimentos, manutenções, alertas de vencimento e fechamento mensal com lucro por caminhão | Node.js, SQLite, Supabase, JavaScript |
-| [app-pedidos-pastelada](https://github.com/pmw17/app-pedidos-pastelada) | PWA de pedidos para evento beneficente, com sincronização em tempo real entre vários celulares | JavaScript, Supabase, PWA, Vercel |
+| [n8n-gestao-seguranca-heinrich](https://github.com/paulo-marques-dev/n8n-gestao-seguranca-heinrich) | Gestão de ocorrências de segurança do trabalho (Pirâmide de Heinrich): planilha → agente de IA classifica → relatório HTML → e-mail | n8n, JS, Sheets API, Gmail API, LLM |
+| [sistema-ws](https://github.com/paulo-marques-dev/sistema-ws) | Sistema financeiro de frota para transportadora: fretes, abastecimentos, manutenções, alertas de vencimento e fechamento mensal com lucro por caminhão | Node.js, SQLite, Supabase, JavaScript |
+| [app-pedidos-pastelada](https://github.com/paulo-marques-dev/app-pedidos-pastelada) | PWA de pedidos para evento beneficente, com sincronização em tempo real entre vários celulares | JavaScript, Supabase, PWA, Vercel |
 
 ---
 
