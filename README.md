@@ -1,4 +1,4 @@
-<h1 align="center">Olá, eu sou o Paulo Henrique 👋</h1>
+<h1 align="center">Olá, eu sou o Paulo Marques 👋</h1>
 <h3 align="center">Estudante de Engenharia de Software · Automação de Processos e Integrações</h3>
 
 <p align="center">
